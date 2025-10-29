@@ -1,0 +1,8 @@
+com\SWUDHUB\App.class
+com\SWUDHUB\service\EventService.class
+com\SWUDHUB\controller\PrereleaseController.class
+com\SWUDHUB\controller\StoreShowdownController.class
+com\SWUDHUB\model\StoreShowdownEvent.class
+com\SWUDHUB\service\StoreShowdownService.class
+com\SWUDHUB\model\PrereleaseEvent.class
+com\SWUDHUB\controller\MainController.class
